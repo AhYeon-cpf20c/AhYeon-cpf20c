@@ -6,7 +6,7 @@
 - Samsung Software & AI Academy For Youth
 
 #### 🚗 Mobaseelec (April 2023 ~ June 2025)
-- Automotive switch Design Engineer 
+- Automotive Switch Design Engineer 
 
 #### 🏠 LH Corporation (September 2022 ~ December 2022)
 - Intern, Housing Purchase Division
