@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="typing" width="400"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,2e2e2e,cfcfcf&height=230&section=header&text=Hi%20There!%20I'm%20a%20Developer%20👨‍💻&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile!&descAlign=70&descAlignY=65)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=00BC8C&center=true&vCenter=true&width=460&lines=Embedded+Engineer+%7C+Back-End+Learner;Coding+with+C%2C+Java+%26+Logic!;Building+Smart+Things+%F0%9F%9A%80" alt="Typing SVG" />
