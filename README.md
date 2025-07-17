@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=150&section=header&text=Hello%20!%20👋%20I'm%20Ahyeon&fontColor=333333&fontAlignY=40&fontSize=40&desc=Embedded%20Engineer%20%7C%20Learner&descSize=20&descAlign=70&descAlignY=65&fontShadow=true)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=150&section=header&text=Hello%20!%20😆%20I'm%20Ahyeon&fontColor=333333&fontAlignY=40&fontSize=40&desc=Embedded%20Engineer%20%7C%20Learner&descSize=20&descAlign=70&descAlignY=65&fontShadow=true)
 
+## 🔎 About Me
 
-### Experiences
+### 📑 Experiences
 
 #### 🖥️ SSAFY (June 2025 ~ Present)
 - Samsung Software & AI Academy For Youth
