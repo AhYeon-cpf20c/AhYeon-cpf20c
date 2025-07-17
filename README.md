@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=150&section=header&text=Hello%20!%20I'm%20Ahyeon&fontColor=333333&fontAlignY=40&fontSize=40&desc=Embedded%20Engineer%20%7C%20Learner&descSize=20&descAlign=70&descAlignY=65&fontShadow=true)
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=👋%20Hello%2C%20I'm%20Ahyeon%20_%20Typing...&fontColor=333333&fontAlignY=40&fontSize=38&desc=💻%20Embedded%20Engineer%20%7C%20Back-End%20Learner%20%7C%20Tech%20Explorer%20🚀&descSize=20&descAlign=70&descAlignY=65&fontShadow=true)
+
 
 ### Experiences
 
