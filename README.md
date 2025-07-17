@@ -1,13 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/DYZJsy6l7vHpu/giphy.gif" alt="bluescreen" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00BC8C&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+an+Embedded+Developer;I+love+C%2C+Java%2C+Hardware+%26+Code!;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
-
-🧠 SYSTEM BOOT SUCCESSFUL  
-> Role: Embedded Engineer  
-> Mode: Debugging Life...  
-> Status: Code is running smoothly.
-
-
 
 
 
