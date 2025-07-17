@@ -1,8 +1,4 @@
-<!-- 배경처럼 보이게 큰 GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif" alt="bg-effect" width="100%" />
-</p>
-
+https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif
 <!-- 타이핑 효과로 텍스트가 써짐 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00BC8C&center=true&vCenter=true&width=500&lines=👨‍💻+Embedded+Engineer+in+Progress...;⚙️+Debugging+Life+Line-by-Line;💡+Hardware+Meets+Code" alt="Typing SVG" />
