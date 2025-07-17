@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=230&section=header&text=Hi%20There!%20I'm%20a%20Developer%20👨‍💻&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile!&descAlign=70&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2ECC71,A3D9A5,E8F6EF&height=230&section=header&text=Hi%20There!%20I'm%20an%20Embedded%20Developer%20🔧&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=Hardware%20meets%20Code%20💡&descAlign=70&descAlignY=65)
 
 
 ### Experiences
