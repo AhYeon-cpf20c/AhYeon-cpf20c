@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&text=Hello%20!%20:heart_eyes:)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Hello%20!%20)
 
 
 Hi there 👋
