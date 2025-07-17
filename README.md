@@ -1,9 +1,7 @@
-<!-- 깜빡이는 블루스크린 느낌 GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/DYZJsy6l7vHpu/giphy.gif" alt="bluescreen" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJrcjI1ZDNzMHY1bzdlaDh5aWYwNGVqN21qYjI5OGZ5ZnQ0OGU5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DYZJsy6l7vHpu/giphy.gif" alt="bluescreen" width="600"/>
 </p>
 
-<!-- 부팅 성공 텍스트 -->
 
 
 
