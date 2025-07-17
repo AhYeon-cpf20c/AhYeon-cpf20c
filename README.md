@@ -1,11 +1,11 @@
-<!-- 배경 이미지처럼 보이게 GIF 또는 PNG 추가 -->
+<!-- 코드 문법 흐르는 배경 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif" alt="background" width="100%" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="code background" width="100%" />
 </p>
 
-<!-- 그 위에 타이핑 텍스트 효과 삽입 -->
+<!-- 그 위에 타이핑 효과 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Embedded+Engineer+%7C+Back-End+Learner;Coding+with+C%2C+Java+%26+Logic!;Building+Smart+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+an+Embedded+Engineer!;C%2C+Java%2C+Logic+and+Circuits;Let%27s+build+smart+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
