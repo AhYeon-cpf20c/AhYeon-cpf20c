@@ -2,7 +2,7 @@
 
 ## 🔎 About Me
 
-<h3 align="center">📑 Experiences</h3>
+<h2 align="center">📑 Experiences</h2>
 
 ---
 
