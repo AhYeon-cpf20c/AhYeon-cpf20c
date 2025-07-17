@@ -1,6 +1,16 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&color=7F8C8D&width=400&lines=%E2%9C%85+%ED%9A%8C%EC%83%89+%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8+%EC%A0%81%EC%9A%A9+%EC%98%88%EC%8B%9C" alt="타이핑 효과: 회색 그라디언트 적용 예시" />
+<!-- 배경 이미지처럼 보이게 GIF 또는 PNG 추가 -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif" alt="background" width="100%" />
 </p>
+
+<!-- 그 위에 타이핑 텍스트 효과 삽입 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Embedded+Engineer+%7C+Back-End+Learner;Coding+with+C%2C+Java+%26+Logic!;Building+Smart+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=00BC8C&center=true&vCenter=true&width=460&lines=Embedded+Engineer+%7C+Back-End+Learner;Coding+with+C%2C+Java+%26+Logic!;Building+Smart+Things+%F0%9F%9A%80" alt="Typing SVG" />
