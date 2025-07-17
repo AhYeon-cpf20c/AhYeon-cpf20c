@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=4CAF50&height=230&section=header&text=Embedded%20Engineer%20🔧&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=Building%20Tech%20from%20the%20Circuit%20Board%20Up&descAlign=70&descAlignY=65)
+<!-- 깜빡이는 블루스크린 느낌 GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/DYZJsy6l7vHpu/giphy.gif" alt="bluescreen" width="600"/>
+</p>
+
+<!-- 부팅 성공 텍스트 -->
+
 
 
 
