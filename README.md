@@ -4,9 +4,6 @@
 
 <h2 align="center">📑 Experiences</h2>
 
----
-
-
 #### 🖥️ SSAFY (June 2025 ~ Present)
 - Samsung Software & AI Academy For Youth
 
