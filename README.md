@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=안%20녕%20하%20세%20요%20!)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20There!%20I'm%20a%20Developer%20👨‍💻&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile!&descAlign=70&descAlignY=65)
+
+
 ### Experiences
 
 #### 🖥️ SSAFY (June 2025 ~ Present)
