@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2ECC71,A3D9A5,E8F6EF&height=230&section=header&text=Hi%20There!%20I'm%20an%20Embedded%20Developer%20🔧&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=Hardware%20meets%20Code%20💡&descAlign=70&descAlignY=65)
-
-
+![header](https://capsule-render.vercel.app/api?type=shark&color=2ECC71,A3D9A5,E8F6EF&height=230&section=header&text=Embedded%20Engineer%20%7C%20Back-End%20Learner%20🔧&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=Where%20Hardware%20Meets%20Code%20💡&descAlign=70&descAlignY=65)
 
 ### Experiences
 
