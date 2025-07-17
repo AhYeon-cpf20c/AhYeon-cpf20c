@@ -5,11 +5,11 @@
 #### 🖥️ SSAFY (June 2025 ~ Present)
 - Samsung Software & AI Academy For Youth
 
-#### 🚗 Mobaseelec (April 2023 ~ June 2025)
-- Automotive Switch Design Engineer 
+#### 🚗 MOBASE ELECTRONICS (April 2023 ~ June 2025)
+- HMI Department / Automotive Switch Design Engineer 
 
 #### 🏠 LH (September 2022 ~ December 2022)
-- Intern, Housing Purchase Division
+- Housing Purchase Division Department / Intern
 
 - 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/apple-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
