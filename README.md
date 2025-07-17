@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Hello%20!%20I'm%20Ahyeon&fontColor=00FFD1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Hello%20!%20I'm%20Ahyeon&fontColor=CBA3FF)
 
 
 
