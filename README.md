@@ -2,13 +2,13 @@
 
 ### Experiences
 
-#### SSAFY (June 2025 ~ Present)
+#### 🖥️ SSAFY (June 2025 ~ Present)
 - Samsung Software & AI Academy For Youth
 
-#### Mobaseelec (April 2023 ~ June 2025)
-- HMI Design Engineer
+#### 🚗 Mobaseelec (April 2023 ~ June 2025)
+- Automotive switch Design Engineer 
 
-#### LH Corporation (September 2022 ~ December 2022)
+#### 🏠 LH Corporation (September 2022 ~ December 2022)
 - Intern, Housing Purchase Division
 
 - 
