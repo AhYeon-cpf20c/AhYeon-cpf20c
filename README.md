@@ -4,7 +4,7 @@
 ### 이름 : 정아연
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Python](https://img.shields.io/badge/Apple-#000000.svg?&style=for-the-badge&logo=Python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 #000000
