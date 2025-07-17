@@ -1,9 +1,6 @@
-https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif
-<!-- 타이핑 효과로 텍스트가 써짐 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00BC8C&center=true&vCenter=true&width=500&lines=👨‍💻+Embedded+Engineer+in+Progress...;⚙️+Debugging+Life+Line-by-Line;💡+Hardware+Meets+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=00BC8C&center=true&vCenter=true&width=460&lines=Embedded+Engineer+%7C+Back-End+Learner;Coding+with+C%2C+Java+%26+Logic!;Building+Smart+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 
 
 
