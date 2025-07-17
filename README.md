@@ -23,4 +23,8 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=00BC8C&center=true&vCenter=true&width=460&lines=Embedded+Engineer+%7C+Back-End+Learner;Coding+with+C%2C+Java+%26+Logic!;Building+Smart+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=00BC8C&center=true&vCenter=true&width=460&lines=Thanks+for+reading!+%F0%9F%99%8F" alt="Typing SVG" />
+</p>
+
 
