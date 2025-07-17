@@ -2,6 +2,9 @@
 
 <h2 align="center"> 🔎 About Me</h2>
 
+
+
+
 <h2 align="center">📑 Experiences</h2>
 
 #### 🖥️ SSAFY (June 2025 ~ Present)
