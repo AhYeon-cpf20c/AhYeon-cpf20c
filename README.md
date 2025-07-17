@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)" alt="bg-effect" width="100%" />
+  <img src="[[https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)" alt="bg-effect" width="100%" />
 </p>
 
 
