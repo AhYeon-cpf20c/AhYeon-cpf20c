@@ -2,6 +2,9 @@
 
 
 ### 이름 : 정아연
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
 <!--
 **AhYeon-cpf20c/AhYeon-cpf20c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
