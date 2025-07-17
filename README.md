@@ -2,7 +2,7 @@
 
 ## 🔎 About Me
 
-### 📑 Experiences
+<h3 align="center">📑 Experiences</h3>
 ---
 #### 🖥️ SSAFY (June 2025 ~ Present)
 - Samsung Software & AI Academy For Youth
