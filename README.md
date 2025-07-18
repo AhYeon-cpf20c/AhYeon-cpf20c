@@ -16,7 +16,7 @@
 #### 🏠 LH (September 2022 ~ December 2022)
 - Housing Purchase Division Department / Intern
 
-- 
+<h2 align="center">📑 Stack</h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/apple-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/samsung-1428A0?style=flat-square&logo=samsung&logoColor=white"/> 
 
 <p align="center">
