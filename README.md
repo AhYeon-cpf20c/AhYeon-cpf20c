@@ -17,7 +17,7 @@
 - Housing Purchase Division Department / Intern
 
 <h2 align="center">📑 Stacks</h2>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/apple-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/samsung-1428A0?style=flat-square&logo=samsung&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTTP-005A9C?style=flat-square&logo=http&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/HTTP-005A9C?style=flat-square&logo=http&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/samsung-1428A0?style=flat-square&logo=samsung&logoColor=white"/> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=00BC8C&center=true&vCenter=true&width=460&lines=Thanks+for+reading!+%F0%9F%9A%80" alt="Typing SVG" />
