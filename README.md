@@ -7,7 +7,7 @@
 
 <h2 align="center">📑 Experiences</h2>
 
-#### 🖥️ SSAFY (June 2025 ~ Present)
+#### 🖥️ SSAFY (July 2025 ~ Present)
 - Samsung Software & AI Academy For Youth
 
 #### 🚗 MOBASE ELECTRONICS (April 2023 ~ June 2025)
